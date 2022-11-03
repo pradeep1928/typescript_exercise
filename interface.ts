@@ -28,7 +28,6 @@ console.log(productDetails);
 // it will be accepted as an interface type and additional properties will be ignored for type checking
 
 
-
 // declaring an interface
 interface Product {
     productId: number;
